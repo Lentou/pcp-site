@@ -3,7 +3,7 @@ const staffs = [
   {
     name: "Lentou",
     role: "Game Admin",
-    description: "known as Lentou, a Content Creator, Computer Enthusiast, IT Specialist and Programmer in the Philippines.",
+    description: "Owner and Founder of PocketPinas since May 14, 2017",
     icon: "imgs/lentou.png",
     color: "rgb(227, 71, 71)",
     width: "100px"
@@ -12,7 +12,7 @@ const staffs = [
   {
     name: "EXWAYZI",
     role: "Game Master",
-    description: "",
+    description: "Manager and Media Producer of PocketPinas",
     icon: "imgs/exwayzi.png",
     color: "rgb(158, 45, 192)",
     width: "130px"
